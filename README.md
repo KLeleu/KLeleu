@@ -18,8 +18,6 @@ I'm **Kevin Leleu**, a detail-oriented professional with a background in aviatio
 Check out my resume website to learn more about my experience and skills:  
 🌐 [Kevin Leleu’s Resume](https://kleleu.github.io)  
 
-*(Note: Replace the link above with the actual URL of your hosted website once it’s live.)*
-
 ## 🛠️ Skills
 
 - **Technical Troubleshooting:** Proficient in diagnosing and resolving complex issues, a skill I’m applying to debugging code.
