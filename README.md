@@ -9,7 +9,7 @@ I'm **Kevin Leleu**, a detail-oriented professional with a background in aviatio
 - 👯 **I’m looking to collaborate on** open-source projects or entry-level programming opportunities to gain hands-on coding experience.
 - 🤝 **I’m looking for help with** guidance on breaking into the tech industry, especially in programming roles.
 - 💬 **Ask me about** my experience in aviation maintenance, troubleshooting complex systems, or my transition into programming.
-- 📫 **How to reach me:** Email me at [kleleu89@gmail.com](mailto:kleleu89@gmail.com) or connect with me on GitHub.
+- 📫 **How to reach me:** Email me at <a href="mailto:kleleu89@gmail.com?subject=Hiring%20Inquiry&body=Hello%20Kevin,%0A%0AI%27m%20interested%20in%20discussing%20entry-level%20programming%20opportunities%20with%20you.%0APlease%20contact%20me%20at:%20%28insert%20contact%20information%20here%29%0A%0ASincerely%2c">kleleu89@gmail.com</a> or connect with me on GitHub.
 - 😄 **Pronouns:** He/Him
 - ⚡ **Fun fact:** I’m fluent in Romanian and have a typing speed of 38 WPM, which helps me document and code efficiently!
 
