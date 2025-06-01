@@ -16,7 +16,7 @@ I'm **Kevin Leleu**, a detail-oriented professional with a background in aviatio
 ## 🚀 My Resume Website
 
 Check out my resume website to learn more about my experience and skills:  
-🌐 [Kevin Leleu’s Resume](https://kleleu.github.io)  
+🌐 <a href="https://kleleu89.github.io" target="_blank">kleleu89.github.io</a>
 
 ## 🛠️ Skills
 
